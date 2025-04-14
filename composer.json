@@ -5,10 +5,10 @@
   "require": {
     "php": ">=8.0",
     "google/gax": "^1.19.1",
-    "google/auth": "^1.16.0",
     "grpc/grpc": "^1.36.0",
     "google/protobuf": "^3.21.5",
-    "monolog/monolog": "^1.26 || ^2.0 || ^3.0"
+    "monolog/monolog": "^1.26 || ^2.0 || ^3.0",
+    "google/auth": "^1.45"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5",
