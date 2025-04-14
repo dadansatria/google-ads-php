@@ -4,11 +4,11 @@
   "description": "Google Ads API Client for PHP",
   "require": {
     "php": "^8.0",
-    "google/gax": "*",
-    "google/auth": "*",
-    "grpc/grpc": "*",
-    "google/protobuf": "*",
-    "monolog/monolog": "*"
+    "google/auth": "v1.16.0",
+    "google/gax": "v1.7.1",
+    "grpc/grpc": "^1.57.0",
+    "google/protobuf": "^v3.25.6",
+    "monolog/monolog": "^1.26 || ^2.0 || ^3.0"
   },
   "require-dev": {
     "ext-bcmath": "*",
